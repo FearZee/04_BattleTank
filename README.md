@@ -1,2 +1,2 @@
 # 04_BattleTank
-Open-world head-to-head tank fight with simple AI, terrain and advanced controll system in ue4
+Open-world head-to-head tank fight with simple AI, terrain and advanced control system in ue4
